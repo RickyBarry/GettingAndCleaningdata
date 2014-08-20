@@ -1,4 +1,4 @@
-CodeBook For Data Sets Produced By `run_analysis.R`
+CodeBook For Data Sets Produced By `run_Analysis.R`
 ==================
 
 The resulting data sets are derived from [1].
